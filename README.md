@@ -11,7 +11,6 @@ Ensure all dependencies are installed/met and then do the following:
 4. Run `pre-commit` to ensure we're good
 5. Do your necessary development work for this role
 6. Run `pre-commit` again to ensure you're good to go.
-7. Optional: `molecule converge`
 
 ## Dependencies
 This repo expects 3 things installed on your local machine:

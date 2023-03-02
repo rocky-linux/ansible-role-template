@@ -1,18 +1,18 @@
 # Changelog
-All notable changes to this project will be documented in this file.
+Document all changes as necessary here.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+[Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+[Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
-- what do we need to do
+## [Unreleased Example]
+- item A
 
-## [0.0.1] - 2020-12-13
+## [0.0.1] - 2023-03-01
 ### Added
-- Initial
+- item A
 
 ### Changed
-- None
+- No Changes
 
 ### Removed
-- None
+- No Changes
