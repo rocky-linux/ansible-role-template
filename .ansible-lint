@@ -1,0 +1,6 @@
+# .ansible-lint
+warn_list:
+  - '204'  # Lines should be less than 160 characters
+  - 'meta-no-info'
+skip_list:
+  - 'role-name'
